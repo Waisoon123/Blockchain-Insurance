@@ -1,5 +1,8 @@
 # Blockchain Project
 
+## Table of Content
+[Overview][##Overview]
+
 ## Overview
 
 Our project leverages blockchain technology to revolutionize travel delay insurance. Traditional insurance methods often suffer from inefficiency, lengthy claims processing times, and a lack of transparency, resulting in customer dissatisfaction. Our decentralized solution, powered by smart contracts, aims to address these issues.
