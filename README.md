@@ -1,7 +1,27 @@
 # Blockchain Project
 
 ## Table of Content
-[Overview][##Overview]
+- [Overview](#overview)
+- [Problem](#problem)
+- [Solution](#solution)
+- [Key Benefits](#key-benefits)
+- [Smart Contracts](#smart-contracts)
+    - [InsurancePurchase Contract](#inusrancepurchasesol)
+    - [InsuranceClaims Contract](#inusranceclaimssol)
+        - [Consensus and Security](#consensus-and-security)
+        - [Integration with External Contracts](#integration-with-external-contracts)
+    - [Flights Contract](#flightssol)
+        - [Security and Transparency](#security-and-transparency)
+        - [Streamlining Claims Processing](#streamlining-claim-processing)
+- [Getting Started](#getting-started)
+    - [Remix Setup](#remix-environment)
+- [Usage](#usage)
+    - [Deploy InsurancePurchase.sol](#deploy-insurancepurchasesol)
+    - [Deploy Flights.sol](#deploy-flightsol)
+    - [Purchase Insurance](#purchasing-an-insurance)
+    - [Check If Submitted Claim Is Successful](#checking-if-we-have-submitted-a-claim-successfully)
+    - [Deploy InsuranceClaims.sol](#deployment-of-insuranceclaimssol)
+    - [Process Claims and Disburse amount](#process-the-claims)
 
 ## Overview
 
